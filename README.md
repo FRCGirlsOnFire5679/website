@@ -48,9 +48,8 @@
 	* Pink/light: DB3F53
 	* Bottom girls: EC0928
 		* Decide color coding for page layout
-		
+
 ##Consistent code format:
-	```
 	<html>
 		<head>
 			<title>Girls on Fire</title>
@@ -71,6 +70,5 @@
 			</div>
 		</body>
 	</html>
-	```
 #Start a tag, inside tags get tabbed in.
 #CLOSE ALL TAGS. DO NOT KILL THE SITE.
