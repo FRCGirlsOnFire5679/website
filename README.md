@@ -48,6 +48,7 @@
 	* Pink/light: DB3F53
 	* Bottom girls: EC0928
 		* Decide color coding for page layout
+		
 ##Consistent code format:
 	```
 	<html>
