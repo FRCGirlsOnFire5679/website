@@ -26,7 +26,10 @@
 
 ##Understanding GitHub:
 [vwahla](http://prntscr.com/9cqmy1)
-
+[download](http://desktop.github.com/)
+[client adding repository](http://prntscr.com/9fhpae)
+[adding a branch](http://prntscr.com/9fhpqf)
+[shell commits](http://prntscr.com/9fhqls)
 
 ##Consistent page design:
 * Scroll to top button
