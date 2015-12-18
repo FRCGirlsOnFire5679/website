@@ -27,6 +27,7 @@
 ##Understanding GitHub:
 [vwahla](http://prntscr.com/9cqmy1)
 
+
 ##Consistent page design:
 * Scroll to top button
 * Dyslexic friendly fonts - find some eventually
@@ -48,6 +49,13 @@
 	* Pink/light: DB3F53
 	* Bottom girls: EC0928
 		* Decide color coding for page layout
+* Social Media links on every page
+	* Decide how/where
+		* Email
+		* Youtube
+		* Facebook
+		* Twitter
+		* Instagram
 
 ##Consistent code format:
 	<html>
