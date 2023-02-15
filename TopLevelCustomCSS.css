@@ -1,3 +1,13 @@
+a.text-body-link {
+  text-decoration: blue underline;
+  color: blue;
+}
+
+a.text-body-link:visited {
+  color: purple;
+  text-decoration-color: purple;
+}
+
 .sponsor-logo-container {
   margin: auto;
 }
@@ -5,4 +15,9 @@
 .sponsor-logo {
   padding: 0.5em;
   width: 40%
+}
+
+.in-the-media__featured-image {
+  display: flex;
+  flex-flow: column wrap;
 }
