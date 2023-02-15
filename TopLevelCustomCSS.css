@@ -21,3 +21,9 @@ a.text-body-link:visited {
   display: flex;
   flex-flow: column wrap;
 }
+
+.join-us__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
