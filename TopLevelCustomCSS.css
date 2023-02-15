@@ -27,3 +27,9 @@ a.text-body-link:visited {
   align-items: center;
   justify-content: center;
 }
+
+.contact-info__wrapper {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
