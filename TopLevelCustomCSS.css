@@ -38,3 +38,53 @@ a.text-body-link:visited {
   display: flex;
   justify-content: center;
 }
+
+.donate-action__wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 3em;
+}
+
+.donate-action__faux-button {
+  border-radius: 2em;
+  box-shadow: 0.25em 0.25em #999;
+}
+
+.donate-hype-text__wrapper, .donate-thanks__wrapper {
+  text-align: center;
+}
+
+.donate-marketing-gallery__row {
+  display: flex;
+  flex-flow: row nowrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sit next to each other */
+.donate-marketing-gallery__column {
+  flex: 50%;
+  max-width: 50%;
+  padding: 0 4px;
+}
+
+.donate-marketing-gallery__column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a one column-layout instead of two columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
