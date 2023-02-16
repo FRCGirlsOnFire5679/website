@@ -33,3 +33,8 @@ a.text-body-link:visited {
   flex-flow: row nowrap;
   justify-content: space-around;
 }
+
+.home-hero__wrapper {
+  display: flex;
+  justify-content: center;
+}
