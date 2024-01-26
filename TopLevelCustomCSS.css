@@ -88,3 +88,41 @@ a.text-body-link:visited {
     max-width: 100%;
   }
 }
+
+#promotedGalleryWrapper .color-overlay, .promoted-gallery-wrapper .color-overlay, .banner-thumbnail-wrapper .color-overlay, .sqs-featured-posts-gallery .color-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(255,255,255,0);
+    z-index: 99;
+}
+
+.desc-wrapper {
+    -webkit-animation: feature-text-anim .75s ease-in-out;
+    animation: feature-text-anim .75s ease-in-out;
+    z-index: 100;
+    position: relative;
+    width: 100%;
+    max-width: 956px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 auto;
+    /* padding: 32px; */
+    text-align: center;
+    text-rendering: optimizeLegibility;
+}
+
+#page {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: auto;
+    margin: auto;
+    max-width: 1020px;
+    padding: 34px 32px;
+    -moz-osx-font-smoothing: auto;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
