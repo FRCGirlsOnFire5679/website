@@ -34,6 +34,12 @@ a.text-body-link:visited {
   justify-content: space-around;
 }
 
+@media screen and (max-width: 800px) {
+  .contact-info__wrapper {
+    flex-flow: row wrap;
+  }
+}
+
 .home-hero__wrapper {
   display: flex;
   justify-content: center;
