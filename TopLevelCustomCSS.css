@@ -8,6 +8,10 @@ a.text-body-link:visited {
   text-decoration-color: purple;
 }
 
+.header-announcement-bar-wrapper {
+  background: #231f20;
+}
+
 .sponsor-logo-container {
   margin: auto;
 }
