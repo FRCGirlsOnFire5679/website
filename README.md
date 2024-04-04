@@ -8,20 +8,20 @@ Track custom code for the Girls on Fire website (currently custom code snippets 
 
 [Production Website](http://www.girlsonfire5679.com/)
 
-## Design 
+## Design
 
 ### Consistent Branding
 
 * Colors in Flame Logo
-	* Light red: #EC0928
-	* Orange: #FD4F00
-	* White: #F8F8F8
-	* Gray: #231F20
+  * Light red: #EA002A
+  * Orange: #FE5204
+  * White: #FFFFFF
+  * Gray: #231F20
 * Mushroom cloud logo
-	* Pink orange: #F24A2B
-	* Red pink: #E9002A
-	* Pink/light: #DB3F53
-	* Hot pink: #EC0928
+  * Pink orange: #F24A2B
+  * Red pink: #E9002A
+  * Pink/light: #DB3F53
+  * Hot pink: #EC0928
 
 ### Code review
 
@@ -37,7 +37,7 @@ Track custom code for the Girls on Fire website (currently custom code snippets 
 * CSS: Can be used to explain what a certain class or id should be showing
 * HTML: Can be used to explain hierarchy
 
-### Understanding GitHub:
+### Understanding GitHub
 
 [vwahla](http://prntscr.com/9cqmy1)
 
